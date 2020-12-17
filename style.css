@@ -1,0 +1,51 @@
+.body{
+    background: "silhouette_night_starry_sky_137292_3840x2400.jpg";
+    font-family: 'Times New Roman', Times, serif;
+}
+.kalkulator{
+    width: 350px;
+    background-color: rgb(0, 0, 119);
+    margin: 100px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0px rgb(109, 109, 109);
+}
+.bil{
+    width:300px;
+    margin: 5px;
+    border: none;
+    font-size: 16pt;
+    border-radius: 5px;
+    padding: 10px;
+}
+.opt{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    border: none;
+    width: 190px;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 10px
+}
+.tombol{
+    background-color: rgb(148, 0, 0);
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: rgba(0, 255, 179, 0.651);
+    font-size: 15pt;
+    border-bottom: 4px rgb(255, 0, 0);
+}
+.brand{
+    color: rgb(41, 247, 0);
+    font-size: 11pt;
+    text-decoration: none;
+    margin: 12px;
+}
+.judul{
+    text-align: center;
+    color: #eee;
+    font-weight: normal;
+}
